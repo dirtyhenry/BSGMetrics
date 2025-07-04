@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "summary": "Send simple JSON for metrics collection.",
   "description": "A client implementation for Bootstragram's BSGMetrics analytics product.",
-  "homepage": "https://github.com/Bootstragram/BSGMetrics",
+  "homepage": "https://github.com/dirtyhenry/BSGMetrics",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Mick F": "contact@mickf.net"
   },
   "source": {
-    "git": "https://github.com/Bootstragram/BSGMetrics.git",
+    "git": "https://github.com/dirtyhenry/BSGMetrics.git",
     "tag": "0.2.0"
   },
   "platforms": {

@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 A client implementation for Bootstragram's BSGMetrics analytics product.
                        DESC
 
-  s.homepage         = 'https://github.com/Bootstragram/BSGMetrics'
+  s.homepage         = 'https://github.com/dirtyhenry/BSGMetrics'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mick F' => 'contact@mickf.net' }
-  s.source           = { :git => 'https://github.com/Bootstragram/BSGMetrics.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dirtyhenry/BSGMetrics.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
 
