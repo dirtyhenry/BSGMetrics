@@ -1,11 +1,3 @@
-//
-//  BSGWebViewController.h
-//  BSGUtilities
-//
-//  Created by Mickaël Floc'hlay on 15/10/2014.
-//  Copyright (c) 2014 Bootstragram. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
 /**

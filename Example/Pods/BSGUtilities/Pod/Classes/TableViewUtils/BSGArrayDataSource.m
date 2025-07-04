@@ -1,11 +1,3 @@
-//
-//  BSGArrayDataSource.m
-//  BSGUtilities
-//
-//  Created by Mickaël Floc'hlay on 25/09/2014.
-//  Copyright (c) 2014 Bootstragram. All rights reserved.
-//
-
 #import "BSGArrayDataSource.h"
 
 @interface BSGArrayDataSource ()

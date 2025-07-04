@@ -1,7 +1,7 @@
 project_name = BSGMetrics
 project_version = DEVELOP
-project_company = Bootstragram
-company_id = com.bootstragram
+project_company = Mick F
+company_id = net.mickf
 
 .PHONY: install
 

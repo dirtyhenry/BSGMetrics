@@ -1,11 +1,3 @@
-//
-//  NSDictionary+BSGJSONUtils.m
-//  BSGUtilities
-//
-//  Created by Mickaël Floc'hlay on 30/10/2014.
-//  Copyright (c) 2014 Mickaël Floc'hlay. All rights reserved.
-//
-
 #import "NSDictionary+BSGJSONUtils.h"
 
 @implementation NSDictionary (BSGJSONUtils)

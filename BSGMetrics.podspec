@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BSGMetrics'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'Send simple JSON for metrics collection.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-A client implementation for Bootstragram's BSGMetrics analytics product.
+A client implementation for BSGMetrics analytics product.
                        DESC
 
   s.homepage         = 'https://github.com/dirtyhenry/BSGMetrics'

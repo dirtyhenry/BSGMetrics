@@ -1,11 +1,3 @@
-//
-//  NSDictionary+BSGJSONUtils.h
-//  BSGUtilities
-//
-//  Created by Mickaël Floc'hlay on 30/10/2014.
-//  Copyright (c) 2014 Mickaël Floc'hlay. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
 
 /**
