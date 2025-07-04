@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/cocoapods/l/BSGMetrics.svg?style=flat)](http://cocoapods.org/pods/BSGMetrics)
 [![Platform](https://img.shields.io/cocoapods/p/BSGMetrics.svg?style=flat)](http://cocoapods.org/pods/BSGMetrics)
 
-BSGMetrics is the iOS client for Bootstragram's analytics services.
+BSGMetrics is the iOS client for Mick F's analytics services.
 
 ## Example
 

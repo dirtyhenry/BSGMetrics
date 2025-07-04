@@ -1,9 +1,9 @@
 {
   "name": "BSGMetrics",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Send simple JSON for metrics collection.",
-  "description": "A client implementation for Bootstragram's BSGMetrics analytics product.",
-  "homepage": "https://github.com/Bootstragram/BSGMetrics",
+  "description": "A client implementation for BSGMetrics analytics product.",
+  "homepage": "https://github.com/dirtyhenry/BSGMetrics",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "Mick F": "contact@mickf.net"
   },
   "source": {
-    "git": "https://github.com/Bootstragram/BSGMetrics.git",
-    "tag": "0.2.0"
+    "git": "https://github.com/dirtyhenry/BSGMetrics.git",
+    "tag": "0.3.0"
   },
   "platforms": {
     "ios": "13.0"
@@ -29,9 +29,7 @@
     "AFNetworking": [
       "~> 3.2"
     ],
-    "FCModel": [
-
-    ],
+    "FCModel": [],
     "FMDB": [
       "2.7.5"
     ]

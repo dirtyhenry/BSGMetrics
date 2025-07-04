@@ -6,7 +6,7 @@ target 'BSGMetrics_Example' do
   use_frameworks!
 
   pod 'BSGMetrics', :path => '../'
-  pod 'BSGUtilities', :git => 'https://github.com/dirtyhenry/BSGUtilities', :branch => 'main'
+  pod 'BSGUtilities', '~> 0.6.0'
 
   target 'BSGMetrics_Tests' do
     inherit! :search_paths
